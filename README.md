@@ -1,8 +1,8 @@
 # DiscordWebHookSender
 
 Download Python. Link: https://www.python.org/downloads/release/python-3113/
-Download Release.
-UNZip Release.
+Download ZIP.
+UNZip File.
 Move all files to desktop.
 Open Install.bat File.
 Wait until load.
